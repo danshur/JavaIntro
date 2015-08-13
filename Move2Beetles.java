@@ -10,6 +10,7 @@ public class Move2Beetles {
 				bailey.getPosition();
 				bailey.turn(turn);
 			}
+			
 		Beetle ed = new Beetle("red");
 		ed.getPosition();
 		ed.turn(180);

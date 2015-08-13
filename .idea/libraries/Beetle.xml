@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Beetle">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Beetle.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
